@@ -1,7 +1,8 @@
 #### @fga_api_url =
 @fga_api_url =  http://localhost:8080
-@fga_store_id = 01KEVFH4WDFMFD2TA6CD05GM3S
-@fga_model_id = YOUR_MODEL_ID_HERE
+@fga_store_id = 01KF4RXANNH2CVJ2W0TMDV3NEY
+@fga_model_id = 
+@fga_api_key = 
 
 # =============================================================================
 # NOTE: Authorization Model ID

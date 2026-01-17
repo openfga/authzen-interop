@@ -1,8 +1,8 @@
 #### @fga_api_url =
-@fga_api_url =  https://authzen-interop.openfga.dev
-@fga_api_key = <key>
+@fga_api_url =  https://localhost:8080
 @fga_store_id = 01JNW1803442023HVDKV03FB3A
-@fga_model_id = YOUR_MODEL_ID_HERE
+@fga_model_id = 
+@fga_api_key = 
 
 # =============================================================================
 # NOTE: Authorization Model ID

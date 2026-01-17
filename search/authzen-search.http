@@ -16,8 +16,9 @@
 # Reference: https://authzen-interop.net/docs/scenarios/search/
 
 @fga_api_url = http://localhost:8080
-@fga_store_id = YOUR_STORE_ID_HERE
-@fga_model_id = YOUR_MODEL_ID_HERE
+@fga_store_id = 01KF4K54FERP8X5R6315QQEX3S
+@fga_model_id = 
+@fga_api_key = 
 
 # =============================================================================
 # NOTE: Authorization Model ID

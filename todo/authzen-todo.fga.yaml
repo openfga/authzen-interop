@@ -1,6 +1,6 @@
 # This file includes all the tests that are run as part of the interop test suite for AuthZen 1.1 and additional tests
 
-name: AuthZen Interop
+name: AuthZen Interop Todo
 model_file: authzen-todo.fga 
 tuple_file: authzen-todo-tuples.yaml
 
