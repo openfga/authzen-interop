@@ -204,8 +204,13 @@ Authorization: bearer {{fga_api_key}}
   }
 }
 
-### PDP Metadata Discovery
-GET {{fga_api_url}}/.well-known/authzen-configuration
+
+# =============================================================================
+# PDP METADATA DISCOVERY
+# =============================================================================
+
+### PDP Metadata Discovery (with store_id)
+GET {{fga_api_url}}/.well-known/authzen-configuration/{{fga_store_id}}
 Content-Type: application/json
 
 

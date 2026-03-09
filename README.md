@@ -21,7 +21,7 @@ git clone https://github.com/openid/authzen.git
 - Run OpenFGA with the AuthZen experimental flag turned on:
 
 ```bash
-openfga run --experimentals=enable_authzen
+openfga run --experimentals=authzen
 ```
 
 ### 1. Todo Application 
